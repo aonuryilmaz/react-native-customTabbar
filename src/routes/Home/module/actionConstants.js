@@ -1,0 +1,4 @@
+export default {
+    SET_SIZE:"SET_SIZE",
+    SET_SIZERESULT:"SET_SIZERESULT"
+}
